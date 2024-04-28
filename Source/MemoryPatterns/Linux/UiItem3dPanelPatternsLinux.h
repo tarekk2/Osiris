@@ -13,3 +13,4 @@ struct UiItem3dPanelPatterns {
             .template addPattern<OffsetToItem3dPanelProperties, CodePattern{"8C 24 ? ? ? ? 4C 89 EF"}.add(2).read()>();
     }
 };
+
