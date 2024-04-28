@@ -33,3 +33,4 @@ struct PatternSearchResultsView {
     std::span<std::byte[4]> fourByteResults;
     std::span<std::byte[8]> eightByteResults;
 };
+
