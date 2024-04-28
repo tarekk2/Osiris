@@ -6,3 +6,4 @@ struct MockDefusingAlertPanel {
     MOCK_METHOD(void, showAndUpdate, ());
     MOCK_METHOD(void, hide, ());
 };
+
