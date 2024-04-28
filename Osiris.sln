@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Osiris", "Source\Osiris.vcxproj", "{DD077013-2B61-4122-970E-63E63055EAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD077013-2B61-4122-970E-63E63055EAA8}.Debug|x64.ActiveCfg = Debug|x64
+		{DD077013-2B61-4122-970E-63E63055EAA8}.Debug|x64.Build.0 = Debug|x64
+		{DD077013-2B61-4122-970E-63E63055EAA8}.Release|x64.ActiveCfg = Release|x64
+		{DD077013-2B61-4122-970E-63E63055EAA8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8983F957-671F-4A13-B67E-5585161828A9}
+	EndGlobalSection
+EndGlobal
