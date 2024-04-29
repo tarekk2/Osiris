@@ -10,3 +10,4 @@ struct TextEntryPatterns {
             .template addPattern<TextEntrySetTextFunction, CodePattern{"8B BF ? ? ? ? E8 ? ? ? ? B8"}.add(7).abs()>();
     }
 };
+
