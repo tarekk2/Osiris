@@ -181,3 +181,4 @@ private:
     bool spaceExpected = false;
     Error error = Error::NoError;
 };
+
