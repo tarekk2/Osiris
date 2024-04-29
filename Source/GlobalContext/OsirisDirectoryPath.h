@@ -78,3 +78,4 @@ public:
 private:
     UniquePtr<platform::PathCharType[]> pathString;
 };
+
