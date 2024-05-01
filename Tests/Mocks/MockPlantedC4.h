@@ -15,3 +15,4 @@ struct MockPlantedC4 {
     MOCK_METHOD(Optional<bool>, isTicking, ());
     MOCK_METHOD(MockBaseEntity&, baseEntity, ());
 };
+
