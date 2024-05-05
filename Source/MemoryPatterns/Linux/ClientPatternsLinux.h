@@ -21,3 +21,4 @@ struct ClientPatterns {
             .template addPattern<PointerToClientMode, CodePattern{"05 ? ? ? ? ? 89 ? 48 89 05 ? ? ? ? E8 ? ? ? ? ? 8B ? ? C9"}.add(1).abs()>();
     }
 };
+
