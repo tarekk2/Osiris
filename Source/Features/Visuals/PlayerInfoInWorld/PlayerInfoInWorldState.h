@@ -10,3 +10,4 @@ struct PlayerInfoInWorldState {
             .set<HostageRescuePanel>()
             .set<BlindedIconPanel>()};
 };
+
