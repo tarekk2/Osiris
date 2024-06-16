@@ -9,3 +9,4 @@ struct C_Hostage : C_BaseModelEntity {
 };
 
 }
+
