@@ -7,3 +7,4 @@ struct MockPanel;
 struct MockClientPanel {
     MOCK_METHOD(MockPanel&, uiPanel, ());
 };
+
