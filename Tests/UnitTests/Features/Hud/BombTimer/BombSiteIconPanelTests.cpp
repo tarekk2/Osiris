@@ -43,3 +43,4 @@ TEST_P(BombSiteIconPanelTestWithParam, SetsCorrectImageUrl) {
 
 INSTANTIATE_TEST_SUITE_P(, BombSiteIconPanelTestWithParam,
     testing::Values(cs2::kBombSiteAIconUrl, cs2::kBombSiteBIconUrl));
+
