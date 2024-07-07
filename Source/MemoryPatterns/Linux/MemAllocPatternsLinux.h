@@ -10,3 +10,4 @@ struct MemAllocPatterns {
             .template addPattern<OffsetAllocVirtualMethod, CodePattern{"04 00 00 00 49 8B 3C 24 48 8B 07 FF 50 ?"}.add(13).read()>();
     }
 };
+
