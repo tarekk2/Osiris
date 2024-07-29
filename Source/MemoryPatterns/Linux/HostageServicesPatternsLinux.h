@@ -10,3 +10,4 @@ struct HostageServicesPatterns {
             .template addPattern<OffsetToCarriedHostage, CodePattern{"07 C7 47 ? FF FF FF FF C3"}.add(3).read()>();
     }
 };
+
