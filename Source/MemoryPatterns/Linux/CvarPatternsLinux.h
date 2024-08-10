@@ -16,3 +16,4 @@ struct CvarPatterns {
             .template addPattern<OffsetToConVarList, CodePattern{"47 ? 0F B7 F6 48 C1"}.add(1).read()>();
     }
 };
+
