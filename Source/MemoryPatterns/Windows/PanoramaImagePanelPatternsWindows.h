@@ -14,3 +14,4 @@ struct PanoramaImagePanelPatterns {
             .template addPattern<OffsetToImagePath, CodePattern{"B6 DA 48 81 C1 ? ? ? ?"}.add(5).read()>();
     }
 };
+
