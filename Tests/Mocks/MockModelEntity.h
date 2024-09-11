@@ -25,3 +25,4 @@ struct MockModelEntity {
             static_assert(!std::is_same_v<EntityType<MockHookContext>, EntityType<MockHookContext>>, "Unknown type");
     }
 };
+
