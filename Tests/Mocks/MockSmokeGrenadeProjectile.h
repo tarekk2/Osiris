@@ -6,3 +6,4 @@
 struct MockSmokeGrenadeProjectile {
     MOCK_METHOD(Optional<bool>, didSmokeEffect, ());
 };
+
