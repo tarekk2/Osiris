@@ -82,3 +82,4 @@ private:
     ViewRenderHook& viewRenderHook;
     SoundWatcher<HookContext> soundWatcher;
 };
+
