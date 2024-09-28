@@ -19,3 +19,4 @@ struct PanoramaUiEnginePatterns {
             .template addPattern<OnDeletePanelFunctionPointer, CodePattern{"48 85 F6 0F 84 ? ? ? ? 55 48 89 E5 41 56 41 55 41 54 49 89 F4 53 48 8B 06 48 89 FB 48 89 F7 FF 10"}>();
     }
 };
+
