@@ -665,3 +665,4 @@ INSTANTIATE_TEST_SUITE_P(NonDefaultConfigVars, PlayerModelGlowEnemyHueTest,
         {.isEnemy{false}, .allyHue{234}, .expectedHue{0.65f}}
     }))
 );
+
