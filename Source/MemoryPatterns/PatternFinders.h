@@ -12,3 +12,4 @@ struct PatternFinders {
     PatternFinder<PatternNotFoundLogger> sdlPatternFinder;
     PatternFinder<PatternNotFoundLogger> sceneSystemPatternFinder;
 };
+
