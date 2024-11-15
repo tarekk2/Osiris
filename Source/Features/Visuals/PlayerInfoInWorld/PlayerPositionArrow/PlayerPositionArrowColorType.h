@@ -6,3 +6,4 @@ enum class PlayerPositionArrowColorType : std::uint8_t {
     PlayerOrTeamColor,
     TeamColor
 };
+
