@@ -74,3 +74,4 @@ private:
 
     HookContext& hookContext;
 };
+
