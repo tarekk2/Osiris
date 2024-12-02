@@ -16,3 +16,4 @@ struct EntityPatterns {
             .template addPattern<OffsetToOwnerEntity, CodePattern{"8B 81 ? ? ? ? 4C 8B DA"}.add(2).read()>();
     }
 };
+
