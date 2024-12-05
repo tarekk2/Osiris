@@ -16,3 +16,4 @@ struct C_CSWeaponBase : C_BaseModelEntity {
 };
 
 }
+
