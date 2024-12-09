@@ -248,3 +248,4 @@ private:
     std::array<config_params::ObjectIndexType, config_params::kMaxNestingLevel + 1> indexInNestingLevel{};
     config_params::NestingLevelIndexType nestingLevel{0};
 };
+
