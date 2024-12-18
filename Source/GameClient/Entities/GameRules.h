@@ -36,3 +36,4 @@ private:
     HookContext& hookContext;
     cs2::C_CSGameRules* gameRules;
 };
+
