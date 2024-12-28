@@ -17,3 +17,4 @@ struct ConfigState {
     UniquePtr<platform::PathCharType[]> pathToConfigTempFile{};
     ConfigVariables configVariables{};
 };
+
