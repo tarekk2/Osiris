@@ -35,3 +35,4 @@ float ClientModeHook_getViewmodelFov_cpp(cs2::ClientModeCSNormal* clientMode) no
 }
 
 }
+
