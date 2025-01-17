@@ -22,3 +22,4 @@ struct StylePropertySymbolMap {
     const cs2::CPanelStyle::StylePropertySymbols* symbols;
 };
 
+
