@@ -10,3 +10,4 @@ struct SoundVisualizationPanelProperties {
     int svgTextureHeight{-1};
     SoundVisualizationPosition position;
 };
+
