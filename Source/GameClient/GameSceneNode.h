@@ -52,3 +52,4 @@ private:
     HookContext* hookContext;
     cs2::CGameSceneNode* gameSceneNode;
 };
+
