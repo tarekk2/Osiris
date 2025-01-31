@@ -14,3 +14,4 @@ struct PanoramaSymbols {
     cs2::CPanoramaSymbol deathNoticeKillerSymbol;
     cs2::CPanoramaSymbol spawnTimeSymbol;
 };
+
