@@ -101,3 +101,4 @@ INSTANTIATE_TEST_SUITE_P(, DroppedBombModelGlowShouldApplyTest, testing::ValuesI
         {.hasOwner{false}, .shouldApplyGlow = true}
     })
 ));
+
