@@ -20,3 +20,4 @@ struct GlobalVars {
     HookContext& hookContext;
     cs2::GlobalVars* globalVars;
 };
+
