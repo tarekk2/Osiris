@@ -82,3 +82,4 @@ TEST_P(BytePatternWithWildcardTest, WildcardCharInMemoryDoesNotMatchEveryPattern
 INSTANTIATE_TEST_SUITE_P(, BytePatternWithWildcardTest, testing::Values('?', '.'));
 
 }
+
