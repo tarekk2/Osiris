@@ -10,3 +10,4 @@ struct WeaponVDataPatterns {
             .template addPattern<OffsetToWeaponName, CodePattern{"? ? ? ? 48 85 C9 48 0F 45 D9 BA"}.read()>();
     }
 };
+
