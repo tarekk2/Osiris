@@ -35,3 +35,4 @@ struct Projected {
         static constexpr auto value = ValueOfType<typename TypeProjection<T>::type>::value;
     };
 };
+
