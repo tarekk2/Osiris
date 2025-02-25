@@ -5,3 +5,4 @@
 
 template <typename HookContext>
 using SoundWatcher = SoundWatcherImpl<HookContext, SoundWatcherState>;
+
