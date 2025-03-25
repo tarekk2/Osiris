@@ -10,3 +10,4 @@ struct SoundSystemPatterns {
             .template addPattern<SoundChannelsPointer, CodePattern{"B8 ? ? ? ? 00 0F 84 ? ? ? ? ? ? ? ? ? ? ? 48 B8"}.add(15).abs()>();
     }
 };
+
