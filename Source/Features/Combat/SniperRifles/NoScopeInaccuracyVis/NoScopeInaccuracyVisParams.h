@@ -12,3 +12,4 @@ constexpr auto kBackgroundAlpha{30};
 constexpr auto kBorderWidth{cs2::CUILength::pixels(1)};
 
 }
+
