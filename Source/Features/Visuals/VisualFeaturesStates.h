@@ -7,3 +7,4 @@ struct VisualFeaturesStates {
     PlayerInfoInWorldState playerInfoInWorldState;
     ModelGlowState modelGlowState;
 };
+
