@@ -34,3 +34,4 @@ public:
     sdl3::SDL_PeepEvents** peepEventsPointer{nullptr};
     sdl3::SDL_PeepEvents* original{nullptr};
 };
+
