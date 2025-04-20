@@ -20,3 +20,4 @@ CONVAR(cl_crosshaircolor_b, int);
 }
 
 #undef CONVAR_STRINGIFY
+
