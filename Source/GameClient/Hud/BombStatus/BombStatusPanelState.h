@@ -12,3 +12,4 @@ struct BombStatusPanelState {
         visibility = Visibility::Visible;
     }
 };
+
