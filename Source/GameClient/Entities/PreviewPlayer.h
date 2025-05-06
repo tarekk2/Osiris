@@ -28,3 +28,4 @@ private:
     HookContext& hookContext;
     cs2::C_CSGO_PreviewPlayer* previewPlayer;
 };
+
