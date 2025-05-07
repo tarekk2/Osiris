@@ -10,3 +10,4 @@ struct SceneObjectUpdaterPatterns {
             .template addPattern<OffsetToSceneObject, CodePattern{"C3 48 8B 42 ? C3"}.add(4).read()>();
     }
 };
+
