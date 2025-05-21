@@ -10,3 +10,4 @@ struct C4Patterns {
             .template addPattern<OffsetToIsBeingPlanted, CodePattern{"? ? ? ? 00 75 ? 48 63 87 ? ? ? ? 48"}.read()>();
     }
 };
+
