@@ -14,3 +14,4 @@ struct BombDefuseSound {
         return soundName.starts_with(cs2::kBombSoundsPath) && std::string_view{ soundName.data() + cs2::kBombSoundsPath.length(), soundName.length() - cs2::kBombSoundsPath.length() }.starts_with(cs2::kBombDefuseStartSoundName);
     }
 };
+
