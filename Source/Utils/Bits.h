@@ -31,3 +31,4 @@ template <std::unsigned_integral T>
 }
 
 }
+
