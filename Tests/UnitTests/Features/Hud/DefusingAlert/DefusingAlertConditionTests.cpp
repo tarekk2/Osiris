@@ -59,3 +59,4 @@ TEST_F(DefusingAlertConditionTest, ShouldNotShowDefusingAlertIfDoesNotHaveC4Bein
     hasC4BeingDefused(false);
     EXPECT_EQ(defusingAlertCondition.shouldShowDefuseAlert(), false);
 }
+
