@@ -194,3 +194,4 @@ private:
     HookContext& hookContext;
     cs2::C_CSPlayerPawn* playerPawn;
 };
+
