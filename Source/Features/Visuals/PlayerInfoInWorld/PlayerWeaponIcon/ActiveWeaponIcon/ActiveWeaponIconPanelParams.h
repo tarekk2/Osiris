@@ -21,3 +21,4 @@ namespace active_weapon_icon_panel_params
         .color{cs2::kColorBlack}
     };
 }
+
