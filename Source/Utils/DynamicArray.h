@@ -152,3 +152,4 @@ private:
     UniquePtr<T[]> memory;
     std::size_t size{0};
 };
+
