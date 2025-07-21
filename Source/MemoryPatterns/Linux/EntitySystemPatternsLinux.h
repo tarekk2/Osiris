@@ -12,3 +12,4 @@ struct EntitySystemPatterns {
             .template addPattern<OffsetToEntityClasses, CodePattern{"49 8B 8F ? ? ? ? 0F B7"}.add(3).read()>();
     }
 };
+
