@@ -7,3 +7,4 @@ struct WindowsVmtFinderParams {
     MemorySection rdataSection;
     const void* dllBase;
 };
+
