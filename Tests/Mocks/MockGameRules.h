@@ -5,3 +5,4 @@
 struct MockGameRules {
     MOCK_METHOD(bool, hasScheduledRoundRestart, ());
 };
+
