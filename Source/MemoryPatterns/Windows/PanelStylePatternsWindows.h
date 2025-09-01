@@ -26,3 +26,4 @@ struct PanelStylePatterns {
         return nullptr;
     }
 };
+
