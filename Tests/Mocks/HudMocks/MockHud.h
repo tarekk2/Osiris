@@ -10,3 +10,4 @@ struct MockHud {
     MOCK_METHOD(MockPanel&, timerTextPanel, ());
     MOCK_METHOD(MockPanel&, getHudReticle, ());
 };
+
