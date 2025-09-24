@@ -26,3 +26,4 @@ struct BytePatternStorage {
 private:
     void errorOccured();
 };
+
