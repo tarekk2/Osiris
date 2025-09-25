@@ -39,3 +39,4 @@ private:
     HookContext& hookContext;
     cs2::CUIPanel* _panel;
 };
+
