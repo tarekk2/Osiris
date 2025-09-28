@@ -57,3 +57,4 @@ private:
     MemorySection vmtSection;
     const void* dllBase;
 };
+
