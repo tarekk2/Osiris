@@ -25,3 +25,4 @@ private:
 
     decltype(&MessageBoxA) messageBoxA = WindowsDynamicLibrary{ "USER32.dll" }.getFunctionAddress("MessageBoxA").as<decltype(&MessageBoxA)>();
 };
+
