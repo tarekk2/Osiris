@@ -39,3 +39,4 @@ private:
     cs2::CUIPanel* _panel;
     PlayerInfoPanelCacheEntry& _cache;
 };
+
