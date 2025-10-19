@@ -12,3 +12,4 @@ struct PanoramaGuiState {
     cs2::PanelHandle viewmodelPreviewPanelHandle;
     ViewmodelModPreviewPanelState viewmodelModPreviewPanelState;
 };
+
