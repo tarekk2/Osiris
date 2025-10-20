@@ -30,3 +30,4 @@ namespace player_bomb_icon_panel_params::container_panel_params
     static constexpr auto kColorCarryingC4 = cs2::Color{255, 255, 77};
     static constexpr auto kColorPlantingC4 = cs2::Color{255, 193, 77};
 }
+
