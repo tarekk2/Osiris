@@ -25,3 +25,4 @@ private:
 
     PathPointer path = getUserDocumentsFolderPath();
 };
+
