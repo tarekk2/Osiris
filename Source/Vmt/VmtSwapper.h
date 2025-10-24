@@ -58,3 +58,4 @@ private:
     std::optional<VmtCopy> vmtCopy;
 };
 
+
