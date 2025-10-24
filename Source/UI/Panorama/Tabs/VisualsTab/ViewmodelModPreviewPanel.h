@@ -66,3 +66,4 @@ private:
     HookContext& hookContext;
     cs2::CUI_Item3dPanel* item3dPanel;
 };
+
