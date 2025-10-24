@@ -9,3 +9,4 @@ struct CBaseAnimGraph : C_BaseModelEntity {
 };
 
 }
+
