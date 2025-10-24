@@ -11,3 +11,4 @@ struct FileSlice {
     std::size_t startOffset{0};
     std::size_t length{0};
 };
+
