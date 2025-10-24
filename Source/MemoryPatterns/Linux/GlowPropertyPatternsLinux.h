@@ -10,3 +10,4 @@ struct GlowPropertyPatterns {
             .template addPattern<OffsetToIsGlowing, CodePattern{"E0 48 8B 7B ? C6 43 ?"}.add(7).read()>();
     }
 };
+
