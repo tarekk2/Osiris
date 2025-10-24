@@ -11,3 +11,4 @@ struct C_BaseModelEntity : C_BaseEntity {
 };
 
 }
+
