@@ -71,3 +71,4 @@ INSTANTIATE_TEST_SUITE_P(, DefusingCountdownTextPanelTestWithCanBeDefusedParam, 
     DefusingCountdownTextPanelTestCanBeDefusedParam{.canBeDefused{true}, .expectedColor{cs2::kColorGreen}},
     DefusingCountdownTextPanelTestCanBeDefusedParam{.canBeDefused{false}, .expectedColor{cs2::kColorRed}}
 ));
+
