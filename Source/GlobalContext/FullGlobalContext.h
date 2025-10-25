@@ -76,3 +76,4 @@ struct FullGlobalContext {
     WeaponModelGlowPreviewState weaponModelGlowPreviewState;
 };
 
+
